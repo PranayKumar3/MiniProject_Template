@@ -1,7 +1,10 @@
-Requirements :-
+Architecture :-
 
-Capture all the requirements wrt system, module, interface, integration, testing, Functional and Non-functional
+Add UML Diagrams
+For information about UML Diagrams refer: UML Diagrams
 
-Captures Basic Planning of the project through - Sample Gantt Chart attached
+Tools :-
 
-Tools: MS Excel, MS word or Similar
+Draw.io
+Creately
+or any other free tools

@@ -1,3 +1,3 @@
-images and videos :- 
+other :- 
 
-Add any images or Videos related to the implemented project
+Add any other folders or files which are created for the project

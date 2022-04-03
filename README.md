@@ -1,10 +1,3 @@
-Architecture :-
+test plan and test ouput:-
 
-Add UML Diagrams
-For information about UML Diagrams refer: UML Diagrams
-
-Tools :-
-
-Draw.io
-Creately
-or any other free tools
+Add all the test paln and test output related files under thsi folder
